@@ -196,7 +196,7 @@ first div in the grid  and place it in the grid. */
 
     nav {
       text-align: right;
-      padding-top: 30px 0px;
+      padding: 30px 0px;
     }
    
     /* Step 10: Write the selector/rule property to update the .container class */
@@ -219,7 +219,7 @@ first div in the grid  and place it in the grid. */
   
   .text-block {
     max-height: 250px;
-    overflow:auto;
+    overflow:visible;
   }
 }
 
